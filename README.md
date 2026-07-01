@@ -45,6 +45,14 @@ Images are uploaded to IPFS at mint time — you can use either **IPFS Desktop**
 
 ---
 
+## 📸 Screenshots
+
+| Connect Wallet | Dashboard & Mint | Token Inventory |
+|:--------------:|:----------------:|:---------------:|
+| ![Connect Wallet](img/home.png) | ![Dashboard](img/main.png) | ![Token Showcase](img/show-case.png) |
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer           | Technology                                            |

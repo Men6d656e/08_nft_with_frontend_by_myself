@@ -1,4 +1,3 @@
-akash@akash-Vostro-14-3468:~/programing/block_chain_projects/08_nft_with_frontend_by_freebuff$ cat Makefile 
 .PHONY: install-all contracts-build contracts-test wagmi-gen frontend-dev \
         frontend-build frontend-start frontend-prod frontend-test frontend-lint \
         deploy-anvil deploy-sepolia post-deploy-setup dev-env clean
@@ -104,4 +103,3 @@ clean:
 	@rm -rf contracts/out contracts/cache
 	@rm -rf frontend/.next frontend/node_modules
 	@echo "✅ Cleaned."
-akash@akash-Vostro-14-3468:~/programing/block_chain_projects/08_nft_with_frontend_by_freebuff$ 

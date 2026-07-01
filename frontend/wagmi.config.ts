@@ -19,7 +19,7 @@ export default defineConfig({
    * Output file for generated TypeScript code.
    * Relative to this config file's directory.
    */
-  out: "src/generated.ts",
+  out: "generated.ts",
 
   /**
    * Explicit contract imports (optional — the Foundry plugin
